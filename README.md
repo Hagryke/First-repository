@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hagryke
 - 👀 I’m interested in Cibersecurity.
-- 🌱 I’m currently learning Git & GitHub
+- 🌱 I’m currently learning Git, GitHub, and trying to do my own WebBlog with Github Pages.
 
 
 <!---
